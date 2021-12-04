@@ -7,3 +7,5 @@ defect_detector_predict.py  детектор брака (чёрного перц
  
 IMG_20211203_162237.jpg   фото, оригинал.
 defect detected.png       вывод пргограммы.
+
+https://drive.google.com/file/d/1xjUxTbIn18pzHZywBSnl7mfhvYcHREuc/view?usp=sharing         ссылка на нейронную сеть model_03122021_20.pth
